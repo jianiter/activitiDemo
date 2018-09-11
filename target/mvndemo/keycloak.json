@@ -1,0 +1,8 @@
+{
+  "realm": "iot",
+  "auth-server-url": "http://localhost:8888/auth",
+  "ssl-required": "external",
+  "resource": "iot-web",
+  "public-client": true,
+  "confidential-port": 0
+}
